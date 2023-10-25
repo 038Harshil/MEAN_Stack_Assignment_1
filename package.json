@@ -1,0 +1,21 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Q3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script1": "node Q10.js",
+    "server": "node Q10.js",
+    "server2": "node Q10.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0",
+    "node-fetch": "^3.3.2",
+    "nodejs-mysql": "^0.1.3",
+    "ws": "^8.14.2"
+  }
+}
